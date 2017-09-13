@@ -65,6 +65,6 @@ Do{
     }
     Clear-Host
     $PatchingTable | Sort-Object -Property SL | Select-Object -ExcludeProperty Record_LastUpdated | Format-Table -AutoSize
-    Start-Sleep -Milliseconds 501
+    Start-Sleep -Milliseconds 500
 }
 While(1 -gt 0)
