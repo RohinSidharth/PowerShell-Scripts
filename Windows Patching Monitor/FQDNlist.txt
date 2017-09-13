@@ -1,0 +1,1 @@
+Add only FQDN of target servers in this file and save in the same location as PatchResultTable.ps1 [Delete this line]
